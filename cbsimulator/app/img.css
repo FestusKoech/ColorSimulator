@@ -1,0 +1,15 @@
+#deficiency{
+        width:150px;
+        height:30px;
+        background: rgb(0, 0, 0);
+        color:white;
+        border-radius: 6px;
+        border: none;
+        cursor: pointer;
+        text-align: center;
+        margin-right: 1px;
+        font-size: 15px;
+        font-weight: 700;
+        border: none;
+
+      }
